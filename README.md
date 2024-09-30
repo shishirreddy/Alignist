@@ -5,4 +5,5 @@ Shishir Reddy Vutukur, Rasmus Laurvig Haugaard, Junwen Huang, Benjamin Busam, To
 European Conference on Computer Vision (ECCV) 2022  
 [pre-print](https://arxiv.org/abs/2409.06683),
 [poster](https://github.com/shishirreddy/Alignist/tree/main/slides/poster.PNG?raw=true),
-[slides](https://github.com/shishirreddy/Alignist/tree/main/slides/Slides.pdf)
+[slides](https://github.com/shishirreddy/Alignist/tree/main/slides/Slides.pdf),
+[video](https://www.youtube.com/watch?v=Nxg-qKpkjFY)
